@@ -4,8 +4,6 @@
 <h3 align="center">A tech aficionado & learner from India !</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsidofficial" alt="iamsidofficial" /></a> </p>
-
 - 🔭 I’m currently working on [Helios](https://heliostracker.netlify.app/)
 
 - 🌱 I’m currently learning **Web Development, Python**
