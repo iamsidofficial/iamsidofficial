@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Siddharth</h1>
 <h3 align="center">A tech aficionado & learner from India !</h3>
