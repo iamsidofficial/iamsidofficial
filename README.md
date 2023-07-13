@@ -10,13 +10,6 @@
 
 - 💬 Ask me about **Python, Programming, Custom ROMs & The Continental**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/thesraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="thesraj" height="30" width="40" /></a>
-<a href="https://instagram.com/siddharth.init" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="siddharth.init" height="30" width="40" /></a>
-<a href="https://medium.com/@sidofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sidoficial" height="30" width="40" /></a>
-</p>
-
 
 
 
